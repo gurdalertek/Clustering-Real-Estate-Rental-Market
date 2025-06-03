@@ -5,4 +5,4 @@ and the analytics workflow in Orange Data Mining software for visual analytics
 as a part of the research titled
 "Rental Market Segmentation with Clustering: A Case Study of the Dubai Real Estate Market"
 
-![](Orange Model - v01g.png)
+[](Orange Model - v01g.png)
